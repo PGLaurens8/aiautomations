@@ -1,6 +1,5 @@
 ```mermaid
 graph TD
-    graph TD
     A[📧 Job Requisition Email] --> B{AI Analysis}
     B --> C[Extract Requirements]
     B --> D[Identify Urgency Level]
